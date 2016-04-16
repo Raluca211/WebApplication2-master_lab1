@@ -1,0 +1,24 @@
+﻿body {
+    background-color:dimgrey;
+}
+
+
+ body form > textarea{
+           /*   color:blue; */
+           background-color:lightpink;
+
+        }
+
+ textarea{
+     border: 3px solid red;
+ }
+
+ #nume2{
+     margin:50px;
+     
+ }
+
+ #r1{
+     margin:100px;
+     background-color:lightpink;
+ }
